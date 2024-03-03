@@ -1,0 +1,32 @@
+{
+    "ethereum": {
+        "rpc": "https://rpc.ankr.com/eth"
+    },
+    "arbitrum": {
+        "rpc": "https://rpc.ankr.com/arbitrum"
+    },
+    "optimism": {
+        "rpc": "https://rpc.ankr.com/optimism"
+    },
+    "bsc": {
+        "rpc": "https://rpc.ankr.com/bsc"
+    },
+    "polygon": {
+        "rpc": "https://rpc.ankr.com/polygon"
+    },
+    "avalanche": {
+        "rpc": "https://rpc.ankr.com/avalanche"
+    },
+    "fantom": {
+        "rpc": "https://rpc.ankr.com/fantom"
+    },
+    "zora": {
+        "rpc": "https://rpc.zora.energy"
+    },
+    "nova": {
+        "rpc": "https://rpc.ankr.com/arbitrumnova"
+    },
+    "zksync": {
+        "rpc": "https://rpc.ankr.com/zksync_era"
+    }
+}

@@ -21,7 +21,7 @@ for line in lines:
         continue
 
     splitted = line.split(',')
-    if len(splitted) != 7:
+    if len(splitted) != 4:
         continue
 
     account = Account()
